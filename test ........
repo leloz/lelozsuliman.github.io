@@ -1,0 +1,7 @@
+#2.times do
+#  puts "hi"
+puts "hello"
+puts "hello"
+
+print "hi"
+print "hi"
